@@ -1,2 +1,2 @@
-# neighstruct
-Program to analyse short-range order, chains and rings in atomic networks
+# F.R.A.C.T.A.L.
+Free Ring And Chain Topology Ananlyser Load-pack
